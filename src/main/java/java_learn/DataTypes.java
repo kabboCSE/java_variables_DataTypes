@@ -15,7 +15,7 @@ public class DataTypes {
         System.out.println("The Number is: "+ number);
         System.out.println("The Number is: "+ number+", Float is: "+ number2);
 
-        //Non Primitive data types
+        //Non Primitive  data types
 
         String name = "Shahriar";
         int[] num = {1,2,3,4,5};
